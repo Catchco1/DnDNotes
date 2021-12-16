@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b78c2d2541e655a3",
+        "id": "9bdbacb7dfbf8fe9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Places/Valley of Death.md",
+            "mode": "source"
+          }
+        },
+        "group": "4b22897a746e534a"
+      },
+      {
+        "id": "84801b0d99a62edb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Places/Valley of Death.md",
+            "mode": "source"
+          }
+        },
+        "group": "4b22897a746e534a"
       }
     ],
     "direction": "vertical"
@@ -65,23 +81,58 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Valley of Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d508aea1901e1ae6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Places/Valley of Death.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "57356fee73bd2457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b78c2d2541e655a3",
-  "lastOpenFiles": []
+  "active": "9bdbacb7dfbf8fe9",
+  "lastOpenFiles": [
+    "Places/Valley of Death.md",
+    "SessionNotes/01_Chapter1.md",
+    "People/PCs/Franklin.md",
+    "People/PCs/Pops.md",
+    "People/PCs/The Fella.md",
+    "People/DeMutta.md",
+    "Places/City/Rat’s Nest.md",
+    "Places/City/The Reef.md",
+    "Places/City/Telnazzi Square.md",
+    "Places/City/KaibraCo.md"
+  ]
 }
