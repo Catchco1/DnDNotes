@@ -1,4 +1,6 @@
 # DnDNotes
+#Administrative
+
 Notes for TableFlop!
 
 For [Session Notes](SessionNotes).
