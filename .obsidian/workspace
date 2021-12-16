@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Valley of Death.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Valley of Death.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Valley of Death.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Valley of Death.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,8 @@
   },
   "active": "9bdbacb7dfbf8fe9",
   "lastOpenFiles": [
+    "README.md",
+    "Session 1.md",
     "Places/Valley of Death.md",
     "SessionNotes/01_Chapter1.md",
     "People/PCs/Franklin.md",
@@ -131,8 +133,6 @@
     "People/PCs/The Fella.md",
     "People/DeMutta.md",
     "Places/City/Rat’s Nest.md",
-    "Places/City/The Reef.md",
-    "Places/City/Telnazzi Square.md",
-    "Places/City/KaibraCo.md"
+    "Places/City/The Reef.md"
   ]
 }
